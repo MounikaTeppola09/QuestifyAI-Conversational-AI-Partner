@@ -9,12 +9,8 @@ QuestifyAI is a conversational AI tool designed to assist users in retrieving an
 - VectorStoreIndex: Indexes uploaded documents for efficient retrieval of relevant information.
 
 ## Installation
-
-1. Clone the repository:
-
-    git clone https://github.com/your_username/questifyai.git
  
-2. Install the required dependencies:
+Install the required dependencies:
 
     pip install -r requirements.txt
 
